@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm student in mit mysore <br>I become a software engineer
+I'm student in mit mysore <br>my dream is become a software engineer<br> learning currently the linux 
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@ I'm student in mit mysore <br>I become a software engineer
 ---
 [![](https://visitcount.itsvg.in/api?id=KiranHK-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

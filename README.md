@@ -14,6 +14,6 @@ I'm student in mit mysore <br>my dream is become a software engineer<br> learnin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiranHK-code&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranHK-code&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# My Repository List is given below
+# my first repository is simple calcuator
 
 

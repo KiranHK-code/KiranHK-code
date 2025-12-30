@@ -1,5 +1,9 @@
-# 💫 About Me:
-Full-stack projects using React.js, Node.js & Firebase<br>Open-source React or Node.js applications<br>Advanced system design for full-stack apps<br>Agentic AI & Generative AI<br>JavaScript, React.js, Node.js<br>I love turning ideas into working AI products
+🚀 Full-stack projects using React.js, Node.js & Firebase
+🌐 Open-source React & Node.js applications
+🧠 Advanced system design for scalable full-stack apps
+🤖 Exploring Agentic AI & Generative AI
+💻 Tech stack: JavaScript, React.js, Node.js
+✨ I love turning ideas into real, working AI products
 
 
 ## 🌐 Socials:

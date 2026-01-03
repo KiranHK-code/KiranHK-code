@@ -3,7 +3,7 @@
 🌐 Open-source React & Node.js applications<br>
 🧠 Advanced system design for scalable full-stack apps<br>
 🤖 Exploring Agentic AI & Generative AI<br>
-💻 Tech stack: JavaScript, React.js, Node.js<br>
+💻 Tech stack: JavaScript, React.js, Node.js ,Express.js<br>
 ✨ I love turning ideas into real, working AI products<br>
 
 

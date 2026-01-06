@@ -1,4 +1,4 @@
- ## 💫 About Me:
+ # 💫 About Me:
 🚀 Full-stack projects using React.js, Node.js & Firebase<br>
 🌐 Open-source React & Node.js applications<br>
 🧠 Advanced system design for scalable full-stack apps<br>
@@ -7,7 +7,7 @@
 ✨ I love turning ideas into real, working AI products<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kiranhk_59081) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-h-k-968625302) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KiranHK362898) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiranhkkiranhk6@gmail.com) 
 
 # 💻 Tech Stack:
@@ -20,10 +20,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KiranHK-code&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KiranHK-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
